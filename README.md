@@ -105,7 +105,7 @@ all code and experiments can be seen on [my Colab](https://colab.research.google
 ## 📞 **Contact**
 - **Name**: Egy Maretiano
 - **LinkedIn**: [Egy Maret](http://www.linkedin.com/in/egy-maretiano-9488b7337?authuser=0)  
-- **Email**: egymaret@gmail.com
+- **Email**: emaretiano@gmail.com
 
 ---
 
